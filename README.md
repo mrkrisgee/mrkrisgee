@@ -1,7 +1,7 @@
 ## Hello! I'm mrkrisgee. 👋 
 - :ocean: I'm from a beautiful Greek island on the Mediterranean sea.
 - 🌌 I'm a Visual Effects Artist for Film & TV specialising in FX (Effects) and Simulation work.
-- :zap: I'm interesting in Artificial Intelligence / Machine Learning.
+- :zap: I'm interested in Artificial Intelligence / Machine Learning.
 - :email: You can reach out to me on kgropatsakis@gmail.com.
 
 <!--
